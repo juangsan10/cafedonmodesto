@@ -1,0 +1,24 @@
+div.main{
+    background: #301A0D; /* Old browsers */
+/*background: -moz-radial-gradient(center, ellipse cover,  #301A0D 1%, #2A1F23 100%); /* FF3.6+ */
+/*background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%#301A0D), color-stop(100%,#2A1F23)); /* Chrome,Safari4+ */
+/*background: -webkit-radial-gradient(center, ellipse cover,  #301A0D 1%,#2A1F23 100%); /* Chrome10+,Safari5.1+ */
+/*background: -o-radial-gradient(center, ellipse cover,  #301A0D 1%,#2A1F23 100%); /* Opera 12+ */
+/*background: -ms-radial-gradient(center, ellipse cover,  #301A0D 1%,#2A1F23 100%); /* IE10+ */
+/*background: radial-gradient(ellipse at center, #301A0D 1%,#2A1F23 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0264d6', endColorstr='#1c2b5a',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+height:calc(100vh);
+width:100%;
+text-align: center;
+color: aliceblue;
+}
+
+.tambotton{
+
+    width: 50%;
+    height: 50%;
+}
+
+.logo{
+   text-align: left;
+}
